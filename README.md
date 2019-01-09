@@ -19,26 +19,26 @@ Shopping cart -
 
 ### Initial View of the Application - User has to search for the product
 
-![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/Adidas/blob/master/assets/img/searchPage.png)
+![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/ShoppingCart/blob/master/assets/img/searchPage.png)
 
 ### Products List from the response api.
 
-![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/Adidas/blob/master/assets/img/ProductsList.PNG)
+![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/ShoppingCart/blob/master/assets/img/ProductsList.PNG)
 
 ### Selected Products from the List.
 
-![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/Adidas/blob/master/assets/img/SelectedProdcuts.PNG)
+![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/ShoppingCart/blob/master/assets/img/SelectedProdcuts.PNG)
 
 ### Show/Hide the notifications when product is selected/unselected.
 
-![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/Adidas/blob/master/assets/img/Add-Remove-Notifications.PNG)
+![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/ShoppingCart/blob/master/assets/img/Add-Remove-Notifications.PNG)
 
 ### WishList.
 
-![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/Adidas/blob/master/assets/img/WishList.PNG)
+![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/ShoppingCart/blob/master/assets/img/WishList.PNG)
 
 ### Menu Options.
 
-![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/Adidas/blob/master/assets/img/MenuDisplayed.PNG)
+![Screen](https://github.com/VenkateshArepalli-FrontEndDeveloper/ShoppingCart/blob/master/assets/img/MenuDisplayed.PNG)
 
 "# Shopping Cart" 
